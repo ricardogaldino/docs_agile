@@ -1,2 +1,2 @@
-# docs-agile
-Agile Manifesto (Software Engineering) 
+# Agile Manifesto (Software Engineering) 
+http://agilemanifesto.org/
